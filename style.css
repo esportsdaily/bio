@@ -81,3 +81,48 @@ a {
     padding: 20px 50px;
   }
 }
+html, body {
+
+  height: 100%;
+
+  width: 100%;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  background: linear-gradient(to left, #606c88 , #3f4c6b);
+
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.button {
+
+  text-align: center;
+
+  text-transform: uppercase;
+
+  cursor: pointer;
+
+  font-size: 20px;
+
+  letter-spacing: 4px;
+
+  position: relative;
+
+  background-color: #16a085;
+
+  border: none;
+
+  color: #fff;
+
+  padding: 20px;
+
+  width: 200px;
+
+  text-align: center;
+
+  transition-duration: 0.4s;
