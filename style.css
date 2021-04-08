@@ -173,3 +173,21 @@ a {
   background-color: #0000FF;
   border-radius: 50%;
 }
+#discord-icn {
+  margin: auto;
+  outline: transparent;
+  display: inline-block;
+  margin: auto;
+  padding: 0.5em;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: background-color 0.7s;
+  transition-timing-function: ease-in-out;
+  font-size: 2em;
+  border-radius: 50%;
+}
+
+#facebook-icn:hover {
+  background-color: #2f3136;
+  border-radius: 50%;
+}
