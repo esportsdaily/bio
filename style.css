@@ -98,7 +98,7 @@ a {
   outline: none;
 }
 
-#twitter-icn {
+#whatsapp-icn {
   margin: auto;
   outline: transparent;
   display: inline-block;
@@ -112,8 +112,8 @@ a {
   border-radius: 50%;
 }
 
-#twitter-icn:hover {
-  background-color: #00ACEE;
+#whatsapp-icn:hover {
+  background-color: #075e54;
   border-radius: 50%;
 }
 
