@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: esportsdaily.github.io
+Token: d0ce1ed528b5a2d7776c55fbd78970786b11d5b123a8e77ae04da1e240231167
